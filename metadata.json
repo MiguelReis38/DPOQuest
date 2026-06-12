@@ -1,0 +1,8 @@
+{
+  "name": "DPOQuest",
+  "description": "Plataforma gamificada de treinamento de LGPD para colaboradores da DPONet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
